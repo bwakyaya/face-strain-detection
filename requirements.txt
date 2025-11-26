@@ -1,0 +1,4 @@
+tensorflow
+opencv-python
+pyautogui
+screen_brightness_control
